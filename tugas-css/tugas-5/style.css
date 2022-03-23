@@ -10,12 +10,17 @@ header .div_menu table td a {
 	
 }
 
-.slider-div img{	
-	margin: 20px 0 20px 0;
+.slider-div {
 	text-align: center;
 }
 
-.slider-div {
+footer {
+	background-color: #000;
 	text-align: center;
+	color: white;
+}
+
+.footer-alamat {
+	font-size: 13px;
 }
 
