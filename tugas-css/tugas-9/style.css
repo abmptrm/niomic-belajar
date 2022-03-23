@@ -1,1 +1,14 @@
-style.css
+.paragraf {
+	text-align: right;
+	background-color: white;
+	width: 60%;
+	float: right;
+	margin: 3px;
+	padding: 20px;
+	border-radius: 10px;
+
+}
+
+img {
+	position: absolute;
+}
