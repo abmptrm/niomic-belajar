@@ -1,0 +1,50 @@
+.box {
+	width:100px;
+	height:50px;
+}
+
+.box1 {
+	background-color: cyan;
+}
+
+.box2 {
+	background-color: lime;
+}
+
+.box3 {
+	background-color: blue;
+}
+
+.box4 {
+	background-color: purple;
+}
+
+.box5 {
+	background-color: darkblue;
+}
+
+.box6 {
+	background-color: yellow;
+}
+
+.box7 {
+	background-color: orange;
+}
+
+.box8 {
+	background-color: red;
+}
+
+.box9 {
+	background-color: gray;
+}
+
+.box10 {
+	background-color: darkgray;
+}
+
+.container {
+	display: flex;
+	align-items: center;
+	p
+}
