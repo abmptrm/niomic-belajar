@@ -1,18 +1,17 @@
-.box {
-	width:100px;
-	height:50px;
-}
-
 .box1 {
 	background-color: cyan;
+
 }
 
 .box2 {
+
 	background-color: lime;
+	
 }
 
 .box3 {
 	background-color: blue;
+	
 }
 
 .box4 {
@@ -21,6 +20,7 @@
 
 .box5 {
 	background-color: darkblue;
+	
 }
 
 .box6 {
@@ -29,6 +29,7 @@
 
 .box7 {
 	background-color: orange;
+	
 }
 
 .box8 {
@@ -37,6 +38,7 @@
 
 .box9 {
 	background-color: gray;
+	
 }
 
 .box10 {
@@ -45,6 +47,23 @@
 
 .container {
 	display: flex;
-	align-items: center;
-	p
+	align-items: baseline;
 }
+
+.box2, .box4, .box6, .box8, .box10 {
+	width:200px;
+	height:50px;
+	padding-top: 50px;
+}
+
+.box1, .box3, .box5, .box7, .box9 {
+	width:200px;
+	height:50px;
+	padding-bottom: 50px;
+
+}
+
+.box {
+	text-align: center;
+}
+
